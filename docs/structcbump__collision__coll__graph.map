@@ -1,0 +1,5 @@
+<map id="cbump_collision" name="cbump_collision">
+<area shape="rect" id="node1" title="Structure representing a collision occuring between two boxes." alt="" coords="57,109,183,136"/>
+<area shape="rect" id="node2" href="$cbump_8h.html#structcbump__vec2" title="Structure representing 2D coordinates, either point or vector." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node3" href="$cbump_8h.html#structcbump__box" title="Structure representing an axis&#45;aligned box." alt="" coords="134,5,231,32"/>
+</map>
